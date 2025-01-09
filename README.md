@@ -1,6 +1,6 @@
-# LiterallyCookedApp LOCAL
+# Literally Cooked LOCAL
 
-## **LiterallyCookedApp** web is a headache right now, so if you want to play around with it yourself, just download this pull. After that, just create a .env file, fill in the keys, and you are good to go.
+## **Literally Cooked** web is a headache right now, so if you want to play around with it yourself, just download this pull. After that, just create a .env file, fill in the keys, and you are good to go.
 
 ## .env structure
 ### ANTHROPIC=put your key here
